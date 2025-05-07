@@ -1,4 +1,5 @@
-# Iris Dataset Analysis with PySpark
+# IrisSpark: PySpark-Based Iris Clustering & Classification
+
 This project implements K-means, Bisecting K-means, and Decision Tree algorithms in PySpark on the Iris dataset.
 
 ## Table of Contents
